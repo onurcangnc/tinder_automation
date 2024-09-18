@@ -1,0 +1,8 @@
+selenium
+keyboard
+colorama
+requests
+opencv-python
+pyautogui
+numpy
+Pillow
