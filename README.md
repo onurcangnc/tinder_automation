@@ -1,3 +1,13 @@
+## ⚠️ Disclaimer — Educational / Computer Vision Research
+
+This project is a **technical proof-of-concept** combining Selenium browser automation with OpenCV image recognition. It demonstrates how template matching and computer vision techniques can be applied to interact with web interfaces when traditional DOM selectors are unreliable.
+
+**Important:** Automating interactions on Tinder violates their [Terms of Service](https://policies.tinder.com/terms) and may result in account suspension or permanent ban. This project is provided **for educational purposes only** — specifically to demonstrate the integration of browser automation with computer vision pipelines.
+
+The author does not encourage or endorse ToS violations. Users assume full responsibility for how they use this code.
+
+---
+
 # Tinder Automation Bot
 
 ![Tinder Automation](./tinder.png)
